@@ -119,12 +119,7 @@ A special thanks to the following contributors for their support and inspiration
 --- 
 
 ### Technologies & Tools Used
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]  
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]  
-[![Google Drive](https://img.shields.io/badge/Google_Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white)]  
-[![Google](https://img.shields.io/badge/Google-DB4437?style=for-the-badge&logo=google&logoColor=white)]  
-[![Google Database](https://img.shields.io/badge/Google_Database-F4B400?style=for-the-badge&logo=google&logoColor=white)]  
-[![Gemini](https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&logo=gemini&logoColor=black)]
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]  [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]  [![Google Drive](https://img.shields.io/badge/Google_Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white)]  [![Google](https://img.shields.io/badge/Google-DB4437?style=for-the-badge&logo=google&logoColor=white)]  [![Google Database](https://img.shields.io/badge/Google_Database-F4B400?style=for-the-badge&logo=google&logoColor=white)]  [![Gemini](https://img.shields.io/badge/Gemini-FFD700?style=for-the-badge&logo=gemini&logoColor=black)]
 
 ---
 ## Developer
