@@ -1,6 +1,6 @@
 {
   "name": "@hazeloffc/google-drive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Google Drive as a simple database by zipping files and uploading them.",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
   "author": "Hazel",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.7.0",
-    "archiver": "^5.3.2",
-    "googleapis": "^133.0.0"
+    "axios": "latest",
+    "archiver": "latest",
+    "googleapis": "latest"
   }
 }
